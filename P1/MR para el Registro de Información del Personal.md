@@ -1,7 +1,5 @@
 # Modelo Relacional para el Registro de Información del Personal
 
-Este proyecto describe el modelo relacional para un sistema de registro de información del personal basado en un formulario PDF.
-
 ## Tablas Necesarias
 
 ### Empleados
@@ -90,4 +88,5 @@ Este proyecto describe el modelo relacional para un sistema de registro de infor
 - **ID_Office** (INT, PK)
 - **Nivel** (VARCHAR)
 
-## Modelo Relacional
+## Modelo Relacional grafico
+Archivo draw.io
